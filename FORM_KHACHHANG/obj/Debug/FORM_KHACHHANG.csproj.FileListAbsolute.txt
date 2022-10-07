@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\bin\Debug\FORM_KHACHHANG.exe.config
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\bin\Debug\FORM_KHACHHANG.exe
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\bin\Debug\FORM_KHACHHANG.pdb
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\obj\Debug\FORM_KHACHHANG.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\obj\Debug\FORM_KHACHHANG.Form1.resources
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\obj\Debug\FORM_KHACHHANG.Properties.Resources.resources
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\obj\Debug\FORM_KHACHHANG.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\obj\Debug\FORM_KHACHHANG.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\obj\Debug\FORM_KHACHHANG.exe
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\obj\Debug\FORM_KHACHHANG.pdb
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\bin\Debug\QLCONGTY.mdf
+C:\Users\asus\source\repos\FORM_KHACHHANG\FORM_KHACHHANG\bin\Debug\QLCONGTY_log.ldf
